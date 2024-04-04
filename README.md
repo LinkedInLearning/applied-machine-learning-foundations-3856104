@@ -1,34 +1,46 @@
 # Applied Machine Learning: Foundations
 This is the repository for the LinkedIn Learning course Applied Machine Learning: Foundations. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+## Getting Started
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+This project can be set up and run in two ways: using GitHub Codespaces for a cloud-based environment, or locally on your machine by installing the required dependencies. Follow the instructions below to get started with the method that best suits your needs.
 
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
+### Option 1: Using GitHub Codespaces
 
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
+GitHub Codespaces provides a complete, configurable dev environment on top of a powerful VS Code interface. It's an excellent option for quickly starting development without the need to set up your local environment.
 
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
+1. **Open the project in Codespaces:** Navigate to the GitHub page of the project and click the "Code" button. Select "Open with Codespaces" > "New codespace". This will set up a new cloud-based development environment pre-configured for this project.
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+2. **Wait for installation:** The installation takes a few minutes after the Codespace launches. The terminal at the bottom of VSCode will be spinning for a little bit getting all of the dependencies built and installed.
 
+3. **Open up `ml-foundations.ipynb` in VSCode:** The video will walk you through this. 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+### Option 2: Local Setup
+
+If you prefer to work on your local machine, follow these steps to set up the project environment. You'll need Python installed on your system (refer to [python.org](https://www.python.org/) for installation instructions).
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/your-project-name.git
+   cd your-project-name
+   ```
+2. **Create virtual environment:** Using your favorite mechanism, create a virtual environment for Python.
+
+3. **Install dependencies:**
+   Ensure you have your virtual environment activated. Then, install the required packages using the following command:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Launch Jupyter and open `ml-foundations.ipynb`:**
+   With the dependencies installed, you're ready to launch Juypter:
+   ```bash
+   jupyter lab
+   ```
+
+   Navigate and open the `ml-foundations.ipynb` notebook in Jupyter.
+
 
 [lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+
 
