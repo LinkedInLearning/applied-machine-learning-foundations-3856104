@@ -1,6 +1,10 @@
 # Applied Machine Learning: Foundations
 This is the repository for the LinkedIn Learning course Applied Machine Learning: Foundations. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![lil-thumbnail-url]
+
+<p>AI models are transforming the workplace. Knowing what’s going behind those models can help you apply machine learning (ML) techniques more effectively. In this course, instructor Matt Harrison shows you how to get started mastering the essentials of machine learning using the power of the Python programming language.</p><p>Explore the fundamentals of an end-to-end machine learning application, as you gain hands-on experience of data exploration, data processing, model creation, model evaluation, model tuning, and model deployment with MLFlow. Along the way, test out your new coding skills in the practice challenges at the end of each section.</p>
+
 ## Getting Started
 
 This project can be set up and run in two ways: using GitHub Codespaces for a cloud-based environment, or locally on your machine by installing the required dependencies. Follow the instructions below to get started with the method that best suits your needs.
@@ -40,7 +44,18 @@ If you prefer to work on your local machine, follow these steps to set up the pr
 
    Navigate and open the `ml-foundations.ipynb` notebook in Jupyter.
 
+### Instructor
 
-[lil-course-url]: https://www.linkedin.com/learning/
+![lil-avatar]
 
+Matt Harrison
 
+Python and Data Science Corporate Trainer, Author, Speaker, Consultant
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/matt-harrison?u=104).
+
+[lil-course-url]: https://www.linkedin.com/learning/applied-machine-learning-foundations-21404006
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQFUZf6yq6PjTQ/learning-public-crop_675_1200/0/1715809334158?e=2147483647&v=beta&t=0oeNKvJRsJGIHVezfYWhOzC_GwiOX6-CUga60vWsFY0
+[lil-avatar]: https://media.licdn.com/dms/image/D560DAQGLDZBKwtHv5Q/learning-author-crop_200_200/0/1680625154253?e=1717002000&v=beta&t=vjtUd7bQaz4CR1FeiTQ3nWGvbydzOnHnjKiftJ8bWGg
