@@ -57,5 +57,5 @@ Python and Data Science Corporate Trainer, Author, Speaker, Consultant
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/matt-harrison?u=104).
 
 [lil-course-url]: https://www.linkedin.com/learning/applied-machine-learning-foundations-21404006
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQFUZf6yq6PjTQ/learning-public-crop_675_1200/0/1715809334158?e=2147483647&v=beta&t=0oeNKvJRsJGIHVezfYWhOzC_GwiOX6-CUga60vWsFY0
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQG-umFqe1oFDg/learning-public-crop_675_1200/0/1717432957394?e=2147483647&v=beta&t=AGzP3y5jqX0AiSZyW4rB5J3wBome6-i-9XA_h6pq91w
 [lil-avatar]: https://media.licdn.com/dms/image/D560DAQGLDZBKwtHv5Q/learning-author-crop_200_200/0/1680625154253?e=1717002000&v=beta&t=vjtUd7bQaz4CR1FeiTQ3nWGvbydzOnHnjKiftJ8bWGg
